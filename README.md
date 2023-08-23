@@ -30,8 +30,8 @@ style: |
 <!-- backgroundImage: "linear-gradient(to bottom, #67b8e3, #8A2BE2)" -->
 
 
-# Projeto Git/Github DIO
-Victor Miguel da Silva
+
+#Victor Miguel da Silva
 ###### Estudante de Engenharia da Computação
 
 
