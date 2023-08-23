@@ -37,19 +37,6 @@ Victor Miguel da Silva
 
 
 
-##  LAB Markdown
----
-<!-- _color: black --> 
-<!-- backgroundImage: "linear-gradient(to bottom, #F0FFFF,#FFF5EE, #FFE4E1)"-->
-<!-- <div class="columns">
-<div>
-![width:200px](https://cdn-icons-png.flaticon.com/512/2297/2297936.png)
-</div>
-<div style="font-size: 1.5rem;"> -->
-
-![bg opacity:.5](https://www.pngitem.com/pimgs/m/3-36535_networking-png-hd-transparent-social-media-background-png.png)
-
-
 ##   👨‍💻 Minhas Redes Sociais
 
   [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/victormigueleoq/)  [![Facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook)](https://www.facebook.com/victormiguel.dasilva.3/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/victor-miguel-da-silva-28923b242/)
