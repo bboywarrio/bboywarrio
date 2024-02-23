@@ -83,4 +83,4 @@ style: |
   -->
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bboywarrio&repo=AprendBootstrap&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/bboywarrio/AprendBootstrap)           
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bboywarrio&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/bboywarrio/dio-lab-open-source)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bboywarrio&repo=CloneNetflix&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)]([https://github.com/bboywarrio/CloneNetflix](https://bboywarrio.github.io/VictorFlix/)https://bboywarrio.github.io/VictorFlix/) 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bboywarrio&repo=CloneNetflix&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://bboywarrio.github.io/VictorFlix/)
